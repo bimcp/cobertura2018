@@ -1,1 +1,5 @@
+Cobertura 2018
 
+Mapa
+
+[Enlace al mapa](https://github.com/bimcp/cobertura2018/docs/test_map.html)
