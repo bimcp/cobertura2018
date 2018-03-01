@@ -1,6 +1,6 @@
 # Coberturas 2018
 
-## MILD
+###### MILD
 
 [Enlace al mapa](https://bimcp.github.io/cobertura2018/mapa_itn.html)
 
@@ -9,7 +9,7 @@
 
 
 
-## RRI R25
+###### RRI R25
 
 [Enlace al mapa](https://bimcp.github.io/cobertura2018/mapa_irs.html)
 
